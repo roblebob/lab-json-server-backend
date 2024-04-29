@@ -1,29 +1,18 @@
 {
   "projects": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
       "id": 2,
       "title": "Module 3 Project",
       "description": "Create a full-stack application using MERN stack.",
       "userId": 1
+    },
+    {
+      "title": "New Project",
+      "description": "This is a new project.",
+      "id": 3
     }
   ],
   "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
     {
       "id": 3,
       "projectId": 2,
